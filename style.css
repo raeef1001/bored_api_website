@@ -1,0 +1,21 @@
+#colored{
+    color: red;
+}
+
+
+.container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 100%;
+}
+#child{
+    align-self: center;
+    padding-top:400px;
+}
+
+.next{
+    text-align: center;
+    padding-top:400px;
+}
